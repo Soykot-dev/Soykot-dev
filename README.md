@@ -31,3 +31,25 @@ Skills: VUE JS / REACT / JS / HTML / CSS/Express/Mongodb/Node etc
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ares-oykot&theme=default)
+
+
+</br>
+
+# 🔗 🚀 Latest Project
+
+### 🔗 Brand Shop
+- [Live LInk](https://brand-shop-1ccf5.web.app/)
+- [Client Side Repo](https://github.com/ares-oykot/brand-shop-client)
+- [Server Side Repo](https://github.com/ares-oykot/brand-shop-server)
+</br>
+
+### 🔗 ByteBids
+- [Live LInk](https://bytebids-eeafb.web.app/signUp)
+- [Client Side Repo](https://github.com/ares-oykot/byteBids-Front-End)
+- [Server Side Repo](https://github.com/ares-oykot/byteBids-Back-End)
+</br>
+
+### 🔗 Train2Gain
+- [Live LInk](https://train2gain-faa42.web.app/)
+- [Client Side Repo](https://github.com/ares-oykot/Train2Gain-Front-End)
+- [Server Side Repo](https://github.com/ares-oykot/Train2Gain-Back-End)
