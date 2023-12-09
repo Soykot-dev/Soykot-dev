@@ -26,3 +26,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS/Express/Mongodb/Node etc
 </br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ares-oykot&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ares-oykot&theme=default)
