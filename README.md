@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sabbir Ahmed (Soykot)
 #### I am a Web Developer.....
-![I am a Web Developer.....](https://i.ibb.co/gz2n8dH/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)
+![I am a Web Developer.....](https://i.ibb.co/chZWJTg/Gitb-Banner.png)
 
 I am a front-end web developer. Also, I am a junior Mern Stack developer. I work a bit with back-end technology. I have been working in the web development sector for a long time.
 
