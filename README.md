@@ -7,9 +7,12 @@ I am a front-end web developer. Also, I am a junior Mern Stack developer. I work
 
 Skills: VUE JS / REACT / JS / HTML / CSS/Express/Mongodb/Node etc
 
-- 🔭 I’m currently working on self-education 
-- 🌱 I’m currently learning Next JS. 
-- 💬 Ask me about Web Development 
+- 🔭 I’m currently working on a React Project.
+- 👯 I’m looking to collaborate with a senior MERN stack developer.
+- 🤝 I am looking for a development team, where I want to help everyone.
+- 🌱 I’m currently learning Redux and Next JS.
+- 💬 Ask me about Web Development.
+- ⚡ Fun fact - I’m a Civil Engineer.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ares-oykot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rock.soykot.5?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.facebook.com/rock.soykot.5?mibextid=ZbWKwL/)  
